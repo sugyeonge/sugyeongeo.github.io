@@ -1,0 +1,25 @@
+title: Chanjun Park
+url: "https://github.com/Parkchanjun"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "CV"
+   link: "Curriculum_Vitae_Chanjunpark.pdf"
+ - name: "KU-NMT GROUP"
+   link: "http://kunmt.org/"
+
+remote_theme: ankitsultana/researcher@gem
+
+theme: jekyll-theme-cayman
